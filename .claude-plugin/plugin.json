@@ -1,0 +1,10 @@
+{
+  "name": "notyesterday",
+  "description": "Time awareness for Claude Code",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rafet Top\u00e7u"
+  },
+  "homepage": "https://github.com/rafet/notyesterday",
+  "license": "MIT"
+}

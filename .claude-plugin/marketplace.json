@@ -1,0 +1,14 @@
+{
+  "name": "notyesterday",
+  "owner": {
+    "name": "Rafet Top\u00e7u",
+    "url": "https://github.com/rafet"
+  },
+  "plugins": [
+    {
+      "name": "notyesterday",
+      "source": "./",
+      "description": "Time awareness for Claude Code"
+    }
+  ]
+}
